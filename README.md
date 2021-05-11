@@ -1,6 +1,6 @@
 - 👋 Hi, I’m S.Sinchana
-- 👀 I’m interested in Web development,Machine Learning
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in Web development,Data Science,ML
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
