@@ -1,5 +1,4 @@
  ### Hola, I’m S.Sinchana! 👋
- - 📫 You can to reach me through
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][Github]
 [<img height="30" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][Hackerrank]
@@ -31,7 +30,7 @@
 - 👀 I’m interested in Web development,Data Science,ML
 - 🌱 I’m currently learning Data Science Concepts.
 - 💞️ I’m looking to collaborate on Youtube.
-
+ <!-- 📫 You can to reach me through-->
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Git Activeness
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sinchana-Amin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
