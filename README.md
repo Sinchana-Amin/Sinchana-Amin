@@ -3,7 +3,7 @@
 [<img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][Github]
 [<img height="30" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][Hackerrank]
 [<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
-<!--<img height="30" src="https://komarev.com/ghpvc/?username=Sinchana-Amin&color=blueviolet" />-->
+<img height="30" src="https://komarev.com/ghpvc/?username=Sinchana-Amin&color=blueviolet" />
 
 [gmail]: mailto:sinchana.amin1222@gmail.com
 [Linkedin]: https://www.linkedin.com/in/s-sinchana-0611b2192
@@ -33,5 +33,11 @@
  <!-- 📫 You can to reach me through-->
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Git Activeness
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sinchana-Amin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=Sinchana-Amin&&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
+
+<div align="center">
+<b>Show some &nbsp;❤️&nbsp; by starring some of the repositories!</b><br>
+</div>
