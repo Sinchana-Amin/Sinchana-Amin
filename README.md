@@ -1,10 +1,37 @@
  ### Hola, I’m S.Sinchana! 👋
- [Hackerrank]:https://www.hackerrank.com/sinchana_amin121
- 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][Github]
+[<img height="30" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][Hackerrank]
+[<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
+<!--<img height="30" src="https://komarev.com/ghpvc/?username=Sinchana-Amin&color=blueviolet" />-->
+
+[gmail]: mailto:sinchana.amin1222@gmail.com
+[Linkedin]: https://www.linkedin.com/in/s-sinchana-0611b2192
+[Hackerrank]:https://www.hackerrank.com/sinchana_amin121
+[Github]:  https://github.io/Sinchana-Amin
+
+
+<!-- ![alt text](Cover.jpg)-->
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; My Tech Toolbox 🧰
+
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" height="40"/></code> 
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="SQL" height="50"/>
+<!--<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="GCP" height="50"/>-->
+</p>
+
+
 - 👀 I’m interested in Web development,Data Science,ML
 - 🌱 I’m currently learning Data Science Concepts.
 - 💞️ I’m looking to collaborate on Youtube.
 - 📫 You can to reach me through Linkedin:https://www.linkedin.com/in/s-sinchana-0611b2192 Email-@S.Sinchana
+
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Git Activeness
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sinchana-Amin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
