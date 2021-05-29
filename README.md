@@ -7,4 +7,4 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Git Activeness
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sinchana-Amin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-- <p><img src="https://github-readme-stats.vercel.app/api?username=Sinchana-Amin&&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Sinchana-Amin&&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
