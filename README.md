@@ -9,7 +9,7 @@
 [Linkedin]: https://www.linkedin.com/in/s-sinchana-0611b2192
 [Hackerrank]:https://www.hackerrank.com/sinchana_amin121
 [Github]:  https://github.io/Sinchana-Amin
-[twitter]: https://twitter.com/SinchanaAmin?s=09
+[Twitter]: https://twitter.com/SinchanaAmin?s=09
 
 <!-- ![alt text](Cover.jpg)-->
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; My Tech Toolbox 🧰
