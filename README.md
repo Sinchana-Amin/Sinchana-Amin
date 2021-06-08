@@ -22,6 +22,7 @@
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" height="40"/></code> 
 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="SQL" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/css/css-ar21.svg" alt="css" height="50"/>
 <!--<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="GCP" height="50"/>-->
 </p>
