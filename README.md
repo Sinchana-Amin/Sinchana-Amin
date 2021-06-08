@@ -16,12 +16,12 @@
 
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" height="40"/></code> 
-<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="SQL" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="SQL" height="40"/>
 <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css">
 <!--<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="GCP" height="50"/>-->
