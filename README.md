@@ -29,7 +29,7 @@
 
 
 - 👀 I’m interested in Web development,Data Science,ML
-- 🌱 I’m currently learning Data Science Concepts.
+<!-- 🌱 I’m currently learning Data Science Concepts.-->
 - 💞️ I’m looking to collaborate on Youtube.
  <!-- 📫 You can to reach me through-->
 
