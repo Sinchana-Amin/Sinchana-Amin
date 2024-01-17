@@ -28,9 +28,9 @@
 </p>
 
 
-- 👀 I’m interested in Web development,Data Science,ML
+- 👀 I’m interested in Web Development,Android Development,Android Automotive
 <!-- 🌱 I’m currently learning Data Science Concepts.-->
-- 💞️ I’m looking to collaborate on Youtube.
+<!-- 💞️ I’m looking to collaborate on Youtube.-->
  <!-- 📫 You can to reach me through-->
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Git Activeness
