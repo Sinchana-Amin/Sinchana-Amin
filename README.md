@@ -37,10 +37,10 @@
 </p>
 
 
-- 👀 I’m interested in Java Full Stack Development,Android Development and working as a Java Backend Developer
--🌱 ’m currently learning various skills and frameworks, including Java, React.js, SpringBoot Framework, and AWS, to enhance my technical expertise and stay up-to-date with industry trends.-->
--💞️ Apart from Technical I am a trained classical musician, Bharathnatyam and Western dancer and have my own youtube Channel Swara Sinchana.-->
--📫 You can to reach me through mailto:sinchana.amin1222@gmail.com
+- 👀 I’m interested in **Java Full Stack Development, Android Development** and working as a **Java Backend Developer**  
+- 🌱 I’m currently learning various skills and frameworks, including **Java, React.js, Spring Boot Framework, and AWS**, to enhance my technical expertise and stay up-to-date with industry trends.  
+- 💞️ Apart from technical skills, I am a **trained classical musician, Bharatanatyam and Western dancer**, and I have my own **YouTube channel [Swara Sinchana](https://www.youtube.com/)**.  
+- 📫 You can reach me via **[Email](mailto:sinchana.amin1222@gmail.com)**.  
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Git Activeness
 
