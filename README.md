@@ -22,15 +22,21 @@
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" height="40"/></code> 
 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="SQL" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Boot" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React.js" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="Android" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="Kotlin" height="40"/>
 <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css">
 <!--<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="GCP" height="50"/>-->
 </p>
 
 
-- 👀 I’m interested in Web Development,Android Development,Android Automotive
-<!-- 🌱 I’m currently learning Data Science Concepts.-->
-<!-- 💞️ I’m looking to collaborate on Youtube.-->
+- 👀 I’m interested in Java Full Stack Development,Android Development
+<!-- 🌱 ’m currently learning various skills and frameworks, including Java, React.js, SpringBoot Framework, and AWS, to enhance my technical expertise and stay up-to-date with industry trends.-->
+<!-- 💞️ Apart from Technical I am a trained classical musician, Bharathnatyam and Western dancer and have my own youtube Channel Swara Sinchana.-->
  <!-- 📫 You can to reach me through-->
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Git Activeness
