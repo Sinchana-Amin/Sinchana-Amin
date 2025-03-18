@@ -4,12 +4,14 @@
 [<img height="30" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][Hackerrank]
 [<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
 <img height="30" src="https://komarev.com/ghpvc/?username=Sinchana-Amin&color=blueviolet" />
+[<img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][YouTube]
 
 [gmail]: mailto:sinchana.amin1222@gmail.com
 [Linkedin]: https://www.linkedin.com/in/s-sinchana-0611b2192
 [Hackerrank]:https://www.hackerrank.com/sinchana_amin121
 [Github]:  https://github.io/Sinchana-Amin
 [Twitter]: https://twitter.com/SinchanaAmin
+[Youtube Channel]:https://www.youtube.com/@swarasinchana7769
 
 <!-- ![alt text](Cover.jpg)-->
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; My Tech Toolbox 🧰
@@ -34,10 +36,10 @@
 </p>
 
 
-- 👀 I’m interested in Java Full Stack Development,Android Development
-<!-- 🌱 ’m currently learning various skills and frameworks, including Java, React.js, SpringBoot Framework, and AWS, to enhance my technical expertise and stay up-to-date with industry trends.-->
-<!-- 💞️ Apart from Technical I am a trained classical musician, Bharathnatyam and Western dancer and have my own youtube Channel Swara Sinchana.-->
- <!-- 📫 You can to reach me through-->
+- 👀 I’m interested in Java Full Stack Development,Android Development and working as a Java Backend Developer
+🌱 ’m currently learning various skills and frameworks, including Java, React.js, SpringBoot Framework, and AWS, to enhance my technical expertise and stay up-to-date with industry trends.-->
+💞️ Apart from Technical I am a trained classical musician, Bharathnatyam and Western dancer and have my own youtube Channel Swara Sinchana.-->
+📫 You can to reach me through mailto:sinchana.amin1222@gmail.com
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Git Activeness
 
